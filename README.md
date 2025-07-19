@@ -166,8 +166,8 @@ A simple Laravel-based web tool to help teachers easily track and report student
 * Focused on **first-year students**
 * Each student is enrolled in **3 or more subjects**
 * Built and tested on **XAMPP + Windows environment**
-* Designed to be extended for future features**
-*Departments are divided into 3 different cateogaries - IT, Business and Science**
+* Designed to be extended for future features
+*Departments are divided into 3 different cateogaries - IT, Business and Science
 
 ---
 
